@@ -1,5 +1,5 @@
 # Real-Time-Music-Visualizer
-You need Web Sever for Chrome and just load the file with app and go to the URL. Once open, click to start the visualizer.
+You need Web Sever for Chrome and just load the file with the app and go to the URL http://127.0.0.1:8887. Once open, click to start the visualizer.
 
 Matrix Rain
 ![Screenshot (25)](https://user-images.githubusercontent.com/43283288/140243353-4ccf8f4d-022b-48e6-9ea7-c4826c3aa996.png)
