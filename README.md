@@ -14,4 +14,4 @@ Version 4: Polygons.
 ![Screenshot (32)](https://user-images.githubusercontent.com/43283288/140565110-b1760195-7036-4fa0-8e04-b01dd5090a33.png)
 
 Version 5: Interactive.
-[![Video](https://i.imgur.com/vib6nex.jpeg)](https://i.imgur.com/l9aXr5s.mp4)
+[![Video](https://i.imgur.com/67r5ow7.png)](https://i.imgur.com/l9aXr5s.mp4)
