@@ -15,7 +15,7 @@ Version 4: Polygons.
 
 Version 5: Interactive.
 [![Video](https://i.imgur.com/67r5ow7.png)](https://i.imgur.com/l9aXr5s.mp4)
-A/D: increment/decrement vertices by 1
-Q/E: rotate shape left/right by rotateSpeed
-Z/C: increase/decrease vertices
+A/D: increment/decrement vertices by 1\n
+Q/E: rotate shape left/right by rotateSpeed\n
+Z/C: increase/decrease vertices\n
 1/3: rotate color left/right
