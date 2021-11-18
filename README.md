@@ -27,3 +27,6 @@ _Controls_\
 **Z**/**C**: increase/decrease vertices\
 **1**/**3**: rotate color left/right
 
+Version 6: Thick bars for circle.
+![Screenshot (50)](https://user-images.githubusercontent.com/43283288/142302324-0151e63f-c194-4863-a6b2-5d715ae7828f.png)
+---
